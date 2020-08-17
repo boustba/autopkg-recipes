@@ -28,8 +28,6 @@
             <dict>
                 <key>source_pkg</key>
                 <string>%pathname%/*.pkg</string>
-                <key>pkg_path</key>
-                <string>%RECIPE_CACHE_DIR%/</string>
             </dict>
         </dict>
     </array>
